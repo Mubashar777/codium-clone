@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.upper-heading{
+    background: linear-gradient(90deg, #6347ff 20.45%, #05e4ac 84.65%);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.upper-heading h6 a{
+color: white;
+text-decoration: none;
+
+}
+.upper-heading h6 a:hover{
+    color: white;
+    text-decoration: underline;
+    
+    }
